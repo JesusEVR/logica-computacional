@@ -5,7 +5,7 @@ En este repositorio se encuentran las prácticas y el proyecto final desarollado
 
 ## Autores
 
-- EmilianoLuna09099
+- @EmilianoLuna09099
 - @JoshuaJc2
 - @Anthonyafk
 - @JesusEVR
